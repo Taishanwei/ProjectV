@@ -1,6 +1,6 @@
 # Welcome to ProjectV 
 
-![Header](/ProjectV/assets/V1c.png)
+![Header](/ProjectV/docs/assets/V1c.PNG)
 
 You can use the [editor on GitHub](https://github.com/Taishanwei/ProjectV/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
