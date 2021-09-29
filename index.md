@@ -16,6 +16,8 @@ _有关 P4G 和 SECP 的更多信息，请参阅政府官方网页面_
 [P4G](https://partnershipforgrowth.ca/about)
 
 ![Map](/docs/assets/1C.PNG)
+CP-S 规划区历史悠久，可追溯到 1950 年代。第一个分区章程于 1956 年通过，最近一次于 2010 年获得批准。当前的 CP-S 规划区边界在地图有所标注。
+
 
 
 
