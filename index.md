@@ -1,6 +1,6 @@
 # Welcome to ProjectV 
 
-![Header](/docs/assets/V1C.PNG)
+![Header](/docs/assets/V1c.PNG)
 
 **选择语言:** [英文](https://taishanwei.github.io/ProjectVE/) 
 
