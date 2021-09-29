@@ -1,6 +1,6 @@
 # Welcome to ProjectV 
 
-![Header](/docs/assets/V1c.PNG)
+![Header](/docs/assets/V1C.PNG)
 
 **选择语言:** [英文](https://taishanwei.github.io/ProjectVE/) 
 
@@ -60,9 +60,9 @@ DC2 区的目的是容纳多样化的商业活动，服务于旅行者和本地�
 - 湖区公园将拥有多元文化艺术画廊和美食区，形成工业旅游项目，促进Corman Park的历史和文化发展。
 - Vincent 多元文化中心可举办展览、艺术表演、文化演出、公司会议、农贸市场、婚庆等中小型活动。
 
+![Map2](/docs/assets/V2C.PNG)
 
-### 3.
-### 4.具体用途开发标准
+
 
 
 ### Markdown
