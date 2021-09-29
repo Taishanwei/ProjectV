@@ -2,7 +2,7 @@
 
 ![Header](/docs/assets/V1c.PNG)
 
-选择语言[英文]（https://taishanwei.github.io/ProjectVE/) 
+选择语言[英文](https://taishanwei.github.io/ProjectVE/) 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
